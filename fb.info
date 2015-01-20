@@ -1,0 +1,5 @@
+name = Facebook Link
+description = Add a formatter in the manage display content type that allows Admins to determine how links will display
+package = PatrolMePh
+core = 7.x
+files[] = fb.module
